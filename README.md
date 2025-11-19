@@ -249,7 +249,7 @@ Distância de Manhattan
 
 ## 👥 Autores
 
-<table> <tr> <td align="center"> <a href="https://github.com/clarahelena"> <img src="https://github.com/clarahelena.png" width="100px;" alt="Clara Helena"/><br /> <sub><b>Clara Helena</b></sub> </a><br /> 💻 📖 </td> <td align="center"> <img src="https://via.placeholder.com/100/4A90E2/FFFFFF?text=DN" width="100px;" alt="Danielly"/><br /> <sub><b>Danielly Mendonça</b></sub><br /> 💻 📊 </td> <td align="center"> <img src="https://via.placeholder.com/100/50C878/FFFFFF?text=LG" width="100px;" alt="Lucas"/><br /> <sub><b>Lucas Gabriel</b></sub><br /> 💻 🔬 </td> <td align="center"> <img src="https://via.placeholder.com/100/FF6B6B/FFFFFF?text=LV" width="100px;" alt="Luiz"/><br /> <sub><b>Luiz Vinicius</b></sub><br /> 💻 📝 </td> </tr> </table> <div align="center">
+<table> <tr> <td align="center"> <a href="https://github.com/clarahelena"> <img src="https://github.com/clarahelena.png" width="100px;" alt="Clara Helena"/><br /> <sub><b>Clara Helena</b></sub> </a><br /> 💻 📖 </td> <td align="center"> <a href="https://github.com/daniellynuness"> <img src="https://github.com/daniellynuness.png" width="100px;" alt="Danielly"/><br /> <sub><b>Danielly Mendonça</b></sub><br /> 💻 📊 </td> <td align="center"> <a href="https://github.com/lux0blivion"> <img src="https://github.com/lux0blivion.png" width="100px;" alt="Lucas"/><br /> <sub><b>Lucas Gabriel</b></sub><br /> 💻 🔬 </td> <td align="center"> <a href="https://github.com/lluizdevv"> <img src="https://github.com/lluizdevv.png" width="100px;" alt="Luiz"/><br /> <sub><b>Luiz Vinicius</b></sub><br /> 💻 📝 </td> </tr> </table> <div align="center">
 
 ### 🎓 Universidade Federal Rural de Pernambuco (UFRPE)
 
