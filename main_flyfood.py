@@ -1,4 +1,5 @@
 from itertools import permutations
+import time
 
 def leitura_matriz(txt):
     coordenadas = {}
@@ -50,4 +51,7 @@ def main():
     print("Distância total:", menor_distancia)
         
 if __name__ == "__main__":
+    start_fly = time.time()
     main()
+    tempo_forcaBruta = time.time() - start_fly
+    print(f'Tempo de execução da FB (em segundos): {tempo_forcaBruta}') 
